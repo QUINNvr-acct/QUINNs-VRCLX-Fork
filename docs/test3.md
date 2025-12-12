@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Test3
 nav_order: 3
 ---

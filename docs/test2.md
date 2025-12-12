@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Test2
 nav_order: 2
 ---
