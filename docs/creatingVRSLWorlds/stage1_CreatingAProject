@@ -1,0 +1,9 @@
+---
+layout: default
+title: Step 1 - Creating A Project
+parent: Creating VRSL Worlds
+nav_order: 1
+---
+
+# Step 1 - Creating A Project
+In this step, we will walk you through the process of creating a new VRSL-compatible project in Unity for VRChat. This includes setting up the Unity environment and importing VRSL assets.
