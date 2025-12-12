@@ -23,7 +23,7 @@ A fixture is another name for a lighting fixture, there are many different types
 
 A universe of channels is 512 channels. DigitalMultiplex (DMX) can send 512 channels down a single cable, this allows for daisy chaining fixtures, so if you have 100 fixtures, you don't need 100 cables going to each fixture from the console. Only one from the console to the closest and then you can daisy chain around the rest of the 100 fixtures.
 
-![GrandMA3 Light](assets/images/GrandMA3Light.png)
+![GrandMA3 Light](../assets/images/GrandMA3Light.png)
 
 Modern consoles can do many more than a single universe with GrandMA3 (A lighting software/hardware) allowing for 1024 Universes of data, that is over 500k channels. Of course, it is not practical to have 1024 singular cables running into a console. This is where a technology called Art-Net enters the picture.
 

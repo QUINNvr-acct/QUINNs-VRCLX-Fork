@@ -15,6 +15,6 @@ I will also be assuming you have Unity installed and set up for VRChat world cre
 ## ALCOM vs VCC
 I'm just gonna throw this in here real quick. The VCC (VRChat Creator Companion) program is the official way to create content for VRChat, including worlds and avatars. It provides access to the VRChat SDK, which is necessary for uploading content to the platform. **But** with 100% honesty, ALCOM does it better. ALCOM is an alternative Companion allows you to do the same thing, but with better performance and stability. It is what I personally recommend using for all of your VRChat content creation needs, including VRSL worlds.
 
-![ALCOM](assets/images/ALCOM.png)
+![ALCOM](../assets/images/ALCOM.png)
 
 You can download ALCOM [here](https://vrc-get.anatawa12.com/en/alcom/).

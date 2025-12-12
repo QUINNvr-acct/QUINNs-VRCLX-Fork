@@ -10,7 +10,7 @@ In this step, we will guide you through the process of getting DMX data into VRC
 ## What is a Gridnode?
 Art-Net as mentioned before is a protocol for sending DMX data over a network. However, VRChat does not natively support Art-Net, so we need a way to convert that Art-Net data into something that VRChat can understand. This is where gridnodes come in. A gridnode converts Art-Net data into a grid of pixels that gets streamed into VRChat as a video feed. Each pixel in the grid corresponds to a DMX channel, allowing VRChat to receive and interpret the DMX data.
 
-![Art-Net GridNode](assets/images/GridNode.png)
+![Art-Net GridNode](../assets/images/GridNode.png)
 
 The GridNode is limited to 3 universes in black and white mode, or 9 universes in full RGB. For the sake of this explanation we are going to be using the gridnode in its default, 3 universe mode.
 
